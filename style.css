@@ -154,3 +154,35 @@
     color: rgb(255, 255, 255);
     text-align: center;
 }
+
+/* brain structure section start here  */
+
+.brain-structure{
+     gap: 60px;
+}
+.img-about-section{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.img-about-section h4{
+    font-size: 16px;
+    font-weight: 500;
+    color: #3f8657;
+}
+.img-about-section h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+.about-items{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.items{
+    display: flex;
+    float: left;
+    gap: 7px;
+}
+
+l
